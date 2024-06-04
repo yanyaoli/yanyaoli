@@ -10,7 +10,7 @@
         <br/>Creating something for fun, composing website,
         <br/>continuously learning, wanting to help the community.
         <br/>
-        <a href="https://ohnnn.com/">Click here to visit my website</a>
+        <a href="https://ohnnn.com/" target="https://ohnnn.com">Click here to visit my website</a>
         <br></samp>
     </p>
     <dl align="center">
