@@ -3,14 +3,13 @@
   <body>
     <p align="center">
       <img align="right" alt="yanyaoli's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=yanyaoli&show_icons=true" />
-      <samp>Hey, there! I am
+      <samp>Hey, there! I'm
         <em>
-          <a href="https://github.com/yanyaoli">yanyaoli</a></em> a Fulltime student...
+          <a href="https://github.com/yanyaoli">Nemo</a></em> a Fulltime student...
         <br/>Javascript enthusiast... VueJs lover. Python addict.
         <br/>Creating something for fun, composing website,
         <br/>continuously learning, wanting to help the community.
         <br/>
-        <a href="https://ohnnn.com/" target="https://ohnnn.com">Click here to visit my website</a>
         <br></samp>
     </p>
     <dl align="center">
