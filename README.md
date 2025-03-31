@@ -2,10 +2,10 @@
   
   <body>
     <p align="center">
-      <img align="right" alt="yanyaoli's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=yanyaoli&show_icons=true" />
+      <img align="right" alt="plummuz's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=plummuz&show_icons=true" />
       <samp>Hey, there! I'm
         <em>
-          <a href="https://github.com/yanyaoli">Nemo</a></em> a Fulltime student...
+          <a href="https://github.com/plummuz">plummuz</a></em> a Fulltime student...
         <br/>Javascript enthusiast... VueJs lover. Python addict.
         <br/>Creating something for fun, composing website,
         <br/>continuously learning, wanting to help the community.
@@ -29,9 +29,9 @@
     <br/>
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanyaoli/yanyaoli/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanyaoli/yanyaoli/output/github-contribution-grid-snake.svg">
-            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yanyaoli/yanyaoli/output/github-contribution-grid-snake.svg"></picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plummuz/plummuz/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plummuz/plummuz/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/plummuz/plummuz/output/github-contribution-grid-snake.svg"></picture>
     </div>
   </body>
 
